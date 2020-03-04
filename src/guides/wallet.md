@@ -76,7 +76,7 @@ that can be used to generate all public keys for that account in deterministic
 fashion. This means, for instance, that a business can create limitless deposit
 addresses for its users without having to touch its critical private keys or
 seed. Remember that public keys can be used for receiving HNS, but not for
-spending, so a public key falling into the wrong hands will not immediately
+spending, so a public key falling into the wrong hands will not
 result in theft.
 
 ### Watch Only Wallets
